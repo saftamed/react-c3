@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/alt-text */
-import './App.css';
+import './style.css';
 
 function App() {
   let name = "Zlatan Ibrahimovic";

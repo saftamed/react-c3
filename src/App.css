@@ -1,0 +1,13 @@
+.red{
+  color: rgb(150, 61, 61);
+}
+.title{
+  font-size: 4rem;
+}
+*{
+  text-align: center;
+}
+.App{
+  width: 80%;
+  margin: 30px auto;
+}
